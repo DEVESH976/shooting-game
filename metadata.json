@@ -1,0 +1,6 @@
+{
+  "name": "Neon Siege - Top-Down Arena Shooter",
+  "description": "A high-octane retro vector top-down arena shooter built with HTML5 Canvas. Battle waves of cyber-enemies with responsive WASD movement, precision mouse aim, power-ups, synthesized audio, and glowing particle effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
